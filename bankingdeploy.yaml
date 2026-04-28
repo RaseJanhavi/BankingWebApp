@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: banking-app-container
-        image: janhavi225/bankingwebapp:latest
+        image: janhavi225/bankingwebapp:12
         ports:
         - containerPort: 8080
 ---
